@@ -1,4 +1,4 @@
-# Applause [![Build Status](https://img.shields.io/travis/outaTiME/applause.svg)](https://travis-ci.org/outaTiME/applause) [![NPM Version](https://img.shields.io/npm/v/applause.svg)](https://npmjs.org/package/applause)
+# Applause
 
 Pattern replacer that helps creating human-friendly replacements.
 
